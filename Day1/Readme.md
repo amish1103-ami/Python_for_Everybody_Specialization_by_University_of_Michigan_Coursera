@@ -64,7 +64,7 @@ The study-time calculator was checked with normal values, zero, extra minutes, n
 
 ## Learning notes
 
-See [`notes.md`](notes.md) for explanations of the main concepts, examples, testing, and a short reflection.
+See [`Notes.md`](Notes.md) for explanations of the main concepts, examples, testing, and a short reflection.
 
 ## Progress
 
